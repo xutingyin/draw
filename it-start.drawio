@@ -1,1 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-07-18T21:57:34.616Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" version="13.4.6" etag="IyNxgIXFjhew5BaO0AFR" type="github"><diagram id="78tBRSMy3g-0_AHce2w0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-07-18T22:07:09.097Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36" etag="CDIOqf_s6NzXtAYF-hkD" version="13.4.6" type="github">
+  <diagram id="78tBRSMy3g-0_AHce2w0" name="Page-1">
+    <mxGraphModel dx="1356" dy="1943" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="fup3mvXXKLgTJArwXhNP-1" value="&lt;h1&gt;转行IT需要考虑的四点：&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1、重视计算机底层知识&lt;/b&gt;：图灵架构计算机--编译原理、算机组成原理、操作系统、计算机网络、算法与数据结构等。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;2、持续到自学能力。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;3、保持浓厚的兴趣-Stay hungry,stay foolish。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;b&gt;4、良好的习惯-生产高质量的代码。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;a.注释：注释是给自己看的，同时也是给别人看到。&lt;/p&gt;&lt;p&gt;b.命名:编程命名规范，减少命名冲突。&lt;/p&gt;&lt;p&gt;c.注重思路：理解整个项目的业务流程和逻辑结构。格局开阔，要有整体把握大局的意识。&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontFamily=宋体;" vertex="1" parent="1">
+          <mxGeometry x="19" y="-1144" width="664" height="519" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
